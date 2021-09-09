@@ -4,7 +4,8 @@ This python script automatically generates a standard set of Snort IDS rules fro
 
 ## Requirements
 
-- Python 2.7
+- v1.0 : Python 2.7
+- v1.2 : Python 3+ 
 - scapy 
 - scapy-http
 - a valid .pcap file
